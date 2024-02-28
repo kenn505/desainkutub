@@ -4,7 +4,7 @@ const container = document.getElementById('container');
 let count = [1, 1, 1, //3 
              1, 1, 1, //6
              1, 1, 1, //9
-             8, 6, 6, //12
+             8, 1, 10, //12
              1, 1, 1, //15
              5, 8, 4, //18
              1, 1, 1, //21
